@@ -8,8 +8,8 @@ public class SuccessKilled {
 	private short state;
 	private Date createTime;
 	
-	//±äÍ¨.
-	//¶à¶ÔÒ»,
+	//å˜é€š.
+	//å¤šå¯¹ä¸€,
 	private Seckill seckill;
 	
 	public long getSeckillId() {
